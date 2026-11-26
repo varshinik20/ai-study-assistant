@@ -1,0 +1,9 @@
+Python is a high-level programming language.
+
+Python is widely used in Artificial Intelligence and Machine Learning.
+
+Python supports functions, loops, variables and data structures.
+
+Machine Learning helps computers learn patterns from data.
+
+Artificial Intelligence enables machines to perform tasks that normally require human intelligence.

@@ -1,0 +1,10 @@
+
+===== STUDY NOTES ANALYSIS =====
+
+Characters: 343
+Words: 44
+Lines: 9
+Paragraphs: 5
+
+Keyword: enables
+Keyword Occurrences: 1
